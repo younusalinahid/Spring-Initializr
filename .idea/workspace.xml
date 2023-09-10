@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5db6d30-cce0-40aa-8521-3c8969c6ff6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/CourseApiApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/Topic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/CourseApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/CourseApiDataApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Spring-Initializr/course-api/src/main/java/io/javabrains/springbootquickstart",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Spring-Initializr/course-api/src/main/java/io/javabrains/springbootquickstart&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Spring-Initializr\course-api\src\main\java\io\javabrains\springbootquickstart" />
