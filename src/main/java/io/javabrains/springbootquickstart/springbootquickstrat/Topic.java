@@ -1,7 +1,11 @@
 package io.javabrains.springbootquickstart.springbootquickstrat;
 
+import javax.persistence.Entity;
+
+@Entity
 public class Topic {
 
+    @id
     private String id;
     private String name;
     private String description;
