@@ -1,4 +1,4 @@
-package io.javabrains.springbootquickstart.springbootquickstrat;
+package io.javabrains.springbootquickstart;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

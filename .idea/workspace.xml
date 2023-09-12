@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5db6d30-cce0-40aa-8521-3c8969c6ff6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/TopicRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/CourseApiApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/springbootquickstrat/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/springbootquickstart/TopicService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +58,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Spring-Initializr\course-api\src\main\java\io\javabrains\springbootquickstart" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CourseApiDataApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.springbootquickstart.CourseApiDataApplication" />
+      <module name="course-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.springbootquickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CourseApiDataApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
