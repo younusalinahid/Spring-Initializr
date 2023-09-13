@@ -1,4 +1,4 @@
-package io.javabrains.springbootquickstart;
+package info.nahid.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -23,12 +23,12 @@ public class TopicController {
 
     @PostMapping(value = "/topics")
     public void addTopic(@RequestBody Topic topic){
-        topicService.addtopic(topic);
+        topicService.addTopic(topic);
     }
 
     @PutMapping (value = "/topics/{id}")
     public void updateTopic(@RequestBody Topic topic, @PathVariable String id) {
-        topicService.updatetopic(id, topic);
+        topicService.updateTopic(id, topic);
     }
 
     @DeleteMapping(value = "/topics/{id}")

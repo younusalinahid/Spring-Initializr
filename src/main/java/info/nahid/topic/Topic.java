@@ -1,4 +1,5 @@
-package io.javabrains.springbootquickstart;
+package info.nahid.topic;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -11,9 +12,11 @@ public class Topic {
     private String description;
 
     public Topic() {
+
     }
 
     public Topic(String id, String name, String description) {
+        super();
         this.id = id;
         this.name = name;
         this.description = description;

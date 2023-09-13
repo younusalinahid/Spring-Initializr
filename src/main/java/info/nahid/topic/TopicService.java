@@ -1,10 +1,9 @@
-package io.javabrains.springbootquickstart;
+package info.nahid.topic;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.persistence.Id;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 @Service
@@ -22,15 +21,17 @@ public class TopicService {
     public Topic getTopic(String id) {
         return topicRepository.findById(id).get();
     }
-    public void addtopic(Topic topic) {
+
+    public void addTopic(Topic topic) {
         topicRepository.save(topic);
     }
 
-    public void updatetopic(String id, Topic topic){
+    public void updateTopic(String id,Topic topic) {
         topicRepository.save(topic);
     }
 
     public void deleteTopic(String id) {
         topicRepository.deleteById(id);
     }
+
 }

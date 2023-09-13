@@ -1,12 +1,12 @@
-package io.javabrains.springbootquickstart;
+package info.nahid;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CourseApiDataApplication {
-
+public class CourseApiApplication {
     public static void main(String[] args) {
-        SpringApplication.run(CourseApiDataApplication.class, args);
+        SpringApplication.run(CourseApiApplication.class,args);
     }
 }
+
